@@ -8,4 +8,4 @@ creating a new project. the encoding of the layout based on the graphic. supplem
 
 Png Project: https://kodilla.com/static/bootcamp/12-8-project.png .
 
-Final effect: https://mkudlak.github.io/Project-3/
+Final effect: http://project-3.mkudlak.com/
